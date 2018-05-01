@@ -1,9 +1,19 @@
 p{
     color:blue;
     background:green;
+<<<<<<< HEAD
     cursor: pointer;
 }
 span{
     display: inline;
     width:10px;
+=======
+    width:100px;
+}
+input{
+    user-select: none;
+    overflow: hidden;
+    width:100px;
+    height:100px;
+>>>>>>> dev1
 }
