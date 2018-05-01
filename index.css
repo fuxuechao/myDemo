@@ -1,4 +1,11 @@
 p{
     color:blue;
     background:green;
+    width:100px;
+}
+input{
+    user-select: none;
+    overflow: hidden;
+    width:100px;
+    height:100px;
 }
