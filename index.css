@@ -1,4 +1,9 @@
 p{
     color:blue;
     background:green;
+    cursor: pointer;
+}
+span{
+    display: inline;
+    width:10px;
 }
